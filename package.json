@@ -1,0 +1,43 @@
+{
+  "name": "twelveampm",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.90.0",
+    "bcrypt": "^1.0.3",
+    "body-parser": "~1.13.2",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "express-routes-versioning": "^1.0.0",
+    "express-validator": "^2.20.8",
+    "fcm-node": "1.2.0",
+    "flat": "^2.0.1",
+    "hogan-express": "^0.5.2",
+    "jsonwebtoken": "^5.7.0",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.6.0",
+    "mongoose-double": "0.0.1",
+    "monq": "^0.3.4",
+    "morgan": "~1.6.1",
+    "multer": "^1.3.0",
+    "multer-s3": "^2.7.0",
+    "node-env-file": "^0.1.7",
+    "node-uuid": "^1.4.7",
+    "nodemailer": "^2.6.4",
+    "nodemon": "^1.11.0",
+    "page-previewer": "^0.1.7",
+    "plivo": "^0.4.0",
+    "q": "^1.4.1",
+    "redis-connection": "^5.0.0",
+    "request": "^2.81.0",
+    "serve-favicon": "~2.3.0",
+    "swagger-ui-express": "^1.0.5",
+    "sync": "^0.2.5",
+    "uuid": "^3.1.0"
+  }
+}
